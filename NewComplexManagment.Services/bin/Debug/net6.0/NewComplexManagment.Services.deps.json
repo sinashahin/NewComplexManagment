@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NewComplexManagment.Services/1.0.0": {
+        "dependencies": {
+          "NewComplexManagment.Entities": "1.0.0"
+        },
+        "runtime": {
+          "NewComplexManagment.Services.dll": {}
+        }
+      },
+      "NewComplexManagment.Entities/1.0.0": {
+        "runtime": {
+          "NewComplexManagment.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewComplexManagment.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NewComplexManagment.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

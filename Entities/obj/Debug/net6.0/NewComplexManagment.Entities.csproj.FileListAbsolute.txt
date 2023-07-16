@@ -1,0 +1,12 @@
+C:\EX C#\NewComplexManagment\Entities\bin\Debug\net6.0\NewComplexManagment.Entities.deps.json
+C:\EX C#\NewComplexManagment\Entities\bin\Debug\net6.0\NewComplexManagment.Entities.dll
+C:\EX C#\NewComplexManagment\Entities\bin\Debug\net6.0\NewComplexManagment.Entities.pdb
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.csproj.AssemblyReference.cache
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.AssemblyInfoInputs.cache
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.AssemblyInfo.cs
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.csproj.CoreCompileInputs.cache
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.dll
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\refint\NewComplexManagment.Entities.dll
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\NewComplexManagment.Entities.pdb
+C:\EX C#\NewComplexManagment\Entities\obj\Debug\net6.0\ref\NewComplexManagment.Entities.dll

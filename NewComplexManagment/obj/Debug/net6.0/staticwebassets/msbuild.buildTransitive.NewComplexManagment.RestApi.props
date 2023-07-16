@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NewComplexManagment.RestApi.props" />
+</Project>

@@ -1,0 +1,15 @@
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\bin\Debug\net6.0\NewComplexManagment.Services.deps.json
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\bin\Debug\net6.0\NewComplexManagment.Services.dll
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\bin\Debug\net6.0\NewComplexManagment.Services.pdb
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\bin\Debug\net6.0\NewComplexManagment.Entities.dll
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\bin\Debug\net6.0\NewComplexManagment.Entities.pdb
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.csproj.AssemblyReference.cache
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.AssemblyInfoInputs.cache
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.AssemblyInfo.cs
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.csproj.CoreCompileInputs.cache
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.csproj.CopyComplete
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.dll
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\refint\NewComplexManagment.Services.dll
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\NewComplexManagment.Services.pdb
+C:\EX C#\NewComplexManagment\NewComplexManagment.Services\obj\Debug\net6.0\ref\NewComplexManagment.Services.dll
